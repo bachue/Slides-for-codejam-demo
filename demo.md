@@ -2,11 +2,13 @@
 author: Rong
 title: Demo for CodeJam
 ---
+
 # BUS with Solr
 
 ##### Author: Rongz
 
 ---
+
 ## Three Search Engines
 
 * Sphinx
@@ -14,6 +16,7 @@ title: Demo for CodeJam
 * ElasticSearch
 
 ---
+
 ## Sphinx
 
 * By Sphinx Technologies Inc.
@@ -22,15 +25,17 @@ title: Demo for CodeJam
 * Easy to config and use
 
 ---
+
 #### Pros
 
 * Good Performance
 
 #### Cons
 
-* Can't compare between 2 strings ( Necessary for us ! )
+* Cannot compare between 2 strings ( Necessary for us ! )
 
 ---
+
 ## Solr
 
 * By Apache
@@ -40,6 +45,7 @@ title: Demo for CodeJam
 * Flexible Query DSL
 
 ---
+
 ## ElasticSearch
 
 * By Apache too
@@ -55,6 +61,63 @@ title: Demo for CodeJam
 * But I love DSL of Solr
 
 ---
+
 # Demo
+
+---
+
+## Searching
+
+* Search by name
+* Search by email
+* Fuzzy Search
+* Pagination
+
+---
+
+## Instant Search
+
+* maybe not so instant because of dev env, without multi-thread
+
+---
+
+## Searching
+
+* Search by last four credit card digits
+* Search by credit card type
+* Search by the amount of charges
+* Search by the processed time
+
+---
+
+## Support Sorting
+
+* By String
+* By Number
+* By Date
+
+---
+
+## Filters
+
+* all filters works well
+
+---
+
+## Include sub-partner or not
+
+---
+
+## Search inside a partner
+
+---
+
+## Sync
+
+* Indexes are syncing with latest data
+
+---
+
+# Thanks
 
 ---
