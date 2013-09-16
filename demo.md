@@ -81,6 +81,10 @@ title: Demo for CodeJam
 
 ---
 
+## Fuzzy Search
+
+---
+
 ## Searching
 
 * Search by last four credit card digits
