@@ -68,6 +68,7 @@ title: Demo for CodeJam
 
 ## Searching
 
+* Global Search in Dashboard
 * Search by name
 * Search by email
 * Fuzzy Search
